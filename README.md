@@ -13,6 +13,7 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 2.Calculate the mean of the X -values and the mean of the Y -values.
 
 3.Find the slope m of the line of best fit using the formula.
+
 <img width="296" height="134" alt="Screenshot 2026-04-24 142329" src="https://github.com/user-attachments/assets/12a974c4-1f2b-448b-a008-ab32569d625b" />
 
 
